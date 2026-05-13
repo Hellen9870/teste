@@ -1,12 +1,11 @@
 body{ 
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(51, 105, 223);
 }
 p{
     color: #e5ff00;
     font-size: 50px;
 }
 
-<div class="container">
-    <img src="https://img.freepik.com/fotos-premium/agua-viva-real-em-um-fundo-azul_564276-498.jpg" alt="Exemplo">
-    <h2>🪼 agua viva 🪼</h2>
-</div>
+.center {
+    text-align: center;
+  }
